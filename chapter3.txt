@@ -1,1 +1,2 @@
 This is the third trail of the git.
+Here also the same both branch and merge methods Used.

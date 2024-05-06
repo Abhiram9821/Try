@@ -1,1 +1,2 @@
 This is the second trail of the git.
+And alo using the branch and the merge methods.
