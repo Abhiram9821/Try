@@ -1,2 +1,3 @@
-This is the second trail of the git.
+This is the second trail odf the git.
 And alo using the branch and the merge methods.
+and this is the alien-plot branch.
